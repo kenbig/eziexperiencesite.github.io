@@ -1,0 +1,16 @@
+#copyright-logo {
+  margin-top: 30px;
+}
+
+body {
+  font-family: montserrat;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#homestay-intro {
+  background-color: #E8F5FE;
+  padding: 40px;
+  /*margin-left: 10px;*/
+}
+
